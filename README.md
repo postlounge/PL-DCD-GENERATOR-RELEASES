@@ -10,14 +10,13 @@ Deze repository bevat **alleen releases (installers)**, geen broncode.
 ## Download
 
 - **Laatste versie:**  
-  [Download via de GitHub Releases-pagina](https://github.com/OWNER/REPO/releases/latest)
+  [Download via de GitHub Releases-pagina](https://github.com/postlounge/PL-DCD-GENERATOR-RELEASES/releases/latest)
 
 Op de Releases-pagina vind je per versie o.a.:
 
 - `DCD Generator-x.y.z-arm64.dmg` – installer voor macOS (Apple Silicon)
 - `DCD Generator-x.y.z-arm64.zip` – dezelfde app als zip, voor handmatige installatie
 
-Vervang `OWNER/REPO` bovenaan door de naam van deze release-repo.
 
 ---
 
@@ -34,7 +33,7 @@ Vervang `OWNER/REPO` bovenaan door de naam van deze release-repo.
 
 ## Installatie (macOS)
 
-1. Ga naar de [laatste release](https://github.com/OWNER/REPO/releases/latest).
+1. Ga naar de [laatste release](https://github.com/postlounge/PL-DCD-GENERATOR-RELEASES/releases/latest)
 2. Download de `DCD Generator-…-arm64.dmg`.
 3. Open het `.dmg`-bestand.
 4. Sleep **DCD Generator** naar de map **Applications**.
